@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApplication20.Model.Request" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAAAkAAAAAAAAACAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Model\REQUEST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Model.Response" Collapsed="true">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Response.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Model.Sales" Collapsed="true">
+    <Position X="13.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBFAAAAAAAEAAAQAIBAAAAAQAACAAABAAACAAgAk=</HashCode>
+      <FileName>Model\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Model.ServiceRequest">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAgAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Model\ServiceRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Model.Slesims" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAEAAAAAAAAAAAAAAAAEAAAAAACAQAAgAAAAABAAA=</HashCode>
+      <FileName>Model\Slesims.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication20.Model.Stored" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAAAAAAAAAAAAEAAAAAACEAAAgAAAQAAAAA=</HashCode>
+      <FileName>Model\Stored.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ConsoleApplication20.Model.TypeRequest" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAkAAAAAAAAQAAEAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Model\REQUEST.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleApplication20.Model.status" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Model\Response.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleApplication20.Model.currency" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAIAAAAAAAA=</HashCode>
+      <FileName>Model\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleApplication20.Model.SalesChanelTxt" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Model\Sales.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ConsoleApplication20.Model.MTART_EINE" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAgAAAAA=</HashCode>
+      <FileName>Model\Stored.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
